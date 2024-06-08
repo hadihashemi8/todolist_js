@@ -1,0 +1,12 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+
+@layer utilities{
+    .complate{
+      
+        border-right: 6px solid #518545;
+    }
+}
